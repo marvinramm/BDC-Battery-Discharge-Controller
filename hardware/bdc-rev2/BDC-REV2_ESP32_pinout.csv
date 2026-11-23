@@ -1,0 +1,33 @@
+gpio,function,note
+0,BOOT,
+1,U0TXD,
+2,LED_BLUE,must be left floating or LOW to enter flashing mode
+3,U0RXD,
+4,,
+5,,outputs PWM signal at boot
+6,,connected to the SPI flash
+7,,connected to the SPI flash
+8,,connected to the SPI flash
+9,,connected to the SPI flash
+10,,connected to the SPI flash
+11,,connected to the SPI flash
+12,,boot fail if pulled high
+13,,
+14,BUTTON,outputs PWM signal at boot; uses the internal pull-up
+15,,outputs PWM signal at boot
+16,,
+17,,
+18,BUZZER,
+19,LED_GREEN,
+21,SDA,
+22,SCL,
+23,LED_RED,
+25,DISCHARGE_ON,
+26,,
+27,,
+32,,
+33,,
+34,,"input only, no internal pull-up"
+35,,"input only, no internal pull-up"
+36,,"input only, no internal pull-up"
+39,BVCC,"input only, no internal pull-up"

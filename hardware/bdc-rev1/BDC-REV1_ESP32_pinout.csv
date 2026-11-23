@@ -1,0 +1,33 @@
+gpio,input,output,function,note
+0,(OK),(OK),BOOT,outputs PWM signal at boot
+1,X,(OK),,debug output at boot
+2,OK,OK,LED_BLUE,LED
+3,(OK),X,,HIGH at boot
+4,OK,OK,S0,
+5,OK,OK,S1,outputs PWM signal at boot
+6,X,X,,connected to the integrated SPI flash
+7,X,X,,connected to the integrated SPI flash
+8,X,X,,connected to the integrated SPI flash
+9,X,X,,connected to the integrated SPI flash
+10,X,X,,connected to the integrated SPI flash
+11,X,X,,connected to the integrated SPI flash
+12,(OK),OK,S2,boot fail if pulled high
+13,OK,OK,S3,
+14,OK,OK,ENC_A,outputs PWM signal at boot
+15,OK,OK,ENC_B,outputs PWM signal at boot
+16,OK,OK,ENC_SW,
+17,OK,OK,FAN,
+18,OK,OK,BUZZER,
+19,OK,OK,LED_RED,
+21,OK,OK,SDA,
+22,OK,OK,SCL,
+23,OK,OK,LED_GREEN,
+25,OK,OK,B1_ON,
+26,OK,OK,,
+27,OK,OK,,
+32,OK,OK,,
+33,OK,OK,,
+34,OK,X,,
+35,OK,X,,
+36,OK,X,,ADC
+39,OK,X,BVCC,ADC
