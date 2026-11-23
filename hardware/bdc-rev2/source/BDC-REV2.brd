@@ -194,7 +194,6 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="no" active="no"/>
 </layers>
 <board>
-<fusionsync huburn="a.YnVzaW5lc3M6Z29vZ2xlbWFpbDY3MTg" projecturn="a.YnVzaW5lc3M6Z29vZ2xlbWFpbDY3MTgjMjAyMDA2MTEzMDY5MjMwNzY" f3durn="urn:adsk.wipprod:dm.lineage:AUtAqSPvTOO2WMooJjSvdg" pcbguid="e1954cb7-e657-48ed-9425-b8faa8cd9601" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="22fc9d51-0ad3-4f23-aa92-2d732fb8f46b" lastsyncedrevisionid="22fc9d51-0ad3-4f23-aa92-2d732fb8f46b" lastboardhashguid="c04678a5-b245-7717-a1f6-e18b78a2604d" lastpushedtime="2023-06-20T22:56:21Z" linktopcb3d="true"/>
 <plain>
 <text x="1.82" y="13.09" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">INPUT</text>
 <text x="1.82" y="32.47" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">OUTPUT 15A</text>
